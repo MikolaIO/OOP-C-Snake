@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1560869770 source:c:\users\mikolajo\documents\codeblocks\snake\point.cpp
+	"Point.h"
+	<windows.h>
+
+1560870028 c:\users\mikolajo\documents\codeblocks\snake\point.h
+	<iostream>
+
+1560860337 source:c:\users\mikolajo\documents\codeblocks\snake\fruit.cpp
+	"Fruit.h"
+
+1560869351 source:c:\users\mikolajo\documents\codeblocks\snake\level.cpp
+	"Level.h"
+	"Point.h"
+	<windows.h>
+	<iostream>
+
+1560870107 source:c:\users\mikolajo\documents\codeblocks\snake\snake.cpp
+	"Snake.h"
+
+1560869876 c:\users\mikolajo\documents\codeblocks\snake\fruit.h
+	"Point.h"
+
+1560869287 c:\users\mikolajo\documents\codeblocks\snake\level.h
+
+1560869770 source:c:\users\mikolajo\documents\codeblocks\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<ctime>
+	"Point.h"
+	"Snake.h"
+
+1560869770 c:\users\mikolajo\documents\codeblocks\snake\snake.h
+	"Point.h"
+	"Fruit.h"
+	"Level.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+
